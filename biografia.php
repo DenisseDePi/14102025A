@@ -49,7 +49,7 @@ $biografia = "La película 'Soy Frankelda' trata sobre Francisca, una joven escr
 
 <div class="contenedor">
     <h1>Biografía de Frankelda</h1>
-    <img src="frankelda.jpg" alt="Frankelda" class="imagen">
+    <img src="C:\Users\Denisse Delgadillo\Documents\14102025A\14102025A\img\frankelda.jpg" alt="Frankelda" class="imagen">
     <p><?php echo $biografia; ?></p>
 </div>
 
